@@ -1,4 +1,4 @@
-# Test-task-react
+# Test task
 Test task 'Random icons'
 
 ## Setup
